@@ -10,5 +10,6 @@ function b() {
     console.log(b);
     console.log(a);
 }
-console.log(new Date());
+//console.log(new Date());
 b()
+console.log(a)
